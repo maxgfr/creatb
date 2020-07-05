@@ -1,2 +1,3 @@
-# CreatB
-Source code of creatb.gq
+# creatb
+
+Landing page
